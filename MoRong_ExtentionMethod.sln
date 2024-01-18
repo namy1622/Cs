@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoRong_ExtentionMethod", "MoRong_ExtentionMethod\MoRong_ExtentionMethod.csproj", "{7052E47D-1F8C-47DC-A96C-0C0EC16997CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7052E47D-1F8C-47DC-A96C-0C0EC16997CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7052E47D-1F8C-47DC-A96C-0C0EC16997CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7052E47D-1F8C-47DC-A96C-0C0EC16997CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7052E47D-1F8C-47DC-A96C-0C0EC16997CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63C5D3BA-EFF5-4B19-AEAF-06EE80D8B2B6}
+	EndGlobalSection
+EndGlobal
